@@ -8,13 +8,13 @@ O artigo [Volunteers' Engagement in Human Computation for Astronomy Projects](ht
 
 ## Fases da replicação e códigos associados
 
-1. Coleta de dados dos salários por região/nível do cargo. Resultados [``pesquisa``](getCommits.py);
-2. Gráficos com a centralização dos dados anteriores. Resultados [``resultados``](getDays.py)
+1. Coleta de dados dos salários por região/nível do cargo. Resultados [``pesquisa``](/pesquisa);
+2. Gráficos com a centralização dos dados anteriores. Resultados [``resultados``](/resultado)
 
 
 ## Dados usados coletados e gerados na replicação
 
-Os dados brutos coletados por meio da API estão no arquivo [``data.json``](data.json), a coleta foi feita em 24/03/2021. Os dados finais, totalmente processados e prontos para serem exibidos no gráfico, estão no arquivo [``activity.data``](activity.data).
+Os dados brutos coletados por meio da API estão no arquivo [``glassdoor``](https://www.glassdoor.com.br/), a coleta foi feita em 29/10/2021. Os dados finais, totalmente processados e prontos para serem exibidos estão nos gráficos da pasta [``resultados``](/resultado).
 
 ---
-_Bernardo Aquino, Pedro (lesandrop at pucminas.br) - PUC Minas_
+_Bernardo Aquino, Pedro Luís e Yollanda Lima - PUC Minas_
