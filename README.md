@@ -15,7 +15,7 @@ O artigo [Volunteers' Engagement in Human Computation for Astronomy Projects](ht
 
 ## Dados usados coletados e gerados na replicação
 
-Os dados brutos coletados por meio da API estão no arquivo [``glassdoor``](https://www.glassdoor.com.br/), a coleta foi feita em 29/10/2021. Os dados finais, totalmente processados e prontos para serem exibidos estão nos gráficos da pasta [``resultados``](https://github.com/BernardoPUC/Mini-Artigo-Reproducao-Replicacao/tree/main/Resultado).
+Os dados brutos coletados estão no site [``glassdoor``](https://www.glassdoor.com.br/), a coleta foi feita em 29/10/2021. Os dados finais, totalmente processados e prontos para serem exibidos estão nos gráficos da pasta [``resultados``](https://github.com/BernardoPUC/Mini-Artigo-Reproducao-Replicacao/tree/main/Resultado).
 
 ---
 _Bernardo Aquino, Pedro Luís e Yollanda Lima - PUC Minas_
