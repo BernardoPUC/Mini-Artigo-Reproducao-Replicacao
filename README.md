@@ -4,7 +4,7 @@ Este diretório apresenta os códigos da oficina de replicação e os dados brut
 
 ## Artigo-base da replicação e análise replicada
 
-O objetivo que norteou a replicacão do artigo [Uma análise de itens determinantes da política de remuneração de uma empresa do ramo frigorífico (https://www.redalyc.org/pdf/3504/350450615008.pdf) em questão deve-se ao o grande interesse na remuneracão dos profissionais da engenharia de software levando em consideracão o tempo de experiência em alguma tecnologia utilizada no mercado de trabalho, região em que moram e as habilidades de cada profissional. A pesquisa foi feita usando o site www.glassdoor.com.br e foram consultados os dados de todas regioes do Brasil, exceto a região Norte. O objetivo foi alcançado e verificou-se que existe uma relacão direta entre o tempo de experiência, a regiÃo em que vivem e o aumento do salário dos funcionários de empresas de tecnologia no Brasil.
+O objetivo que norteou a replicacão do artigo [Uma análise de itens determinantes da política de remuneração de uma empresa do ramo frigorífico](https://www.redalyc.org/pdf/3504/350450615008.pdf) deve-se ao o grande interesse na remuneracão dos profissionais da engenharia de software levando em consideracão o tempo de experiência em alguma tecnologia utilizada no mercado de trabalho, região em que moram e as habilidades de cada profissional. A pesquisa foi feita usando o site www.glassdoor.com.br e foram consultados os dados de todas regioes do Brasil, exceto a região Norte. O objetivo foi alcançado e verificou-se que existe uma relacão direta entre o tempo de experiência, a região em que vivem e o aumento do salário dos funcionários de empresas de tecnologia no Brasil.
 
 ## Fases da replicação e códigos associados
 
