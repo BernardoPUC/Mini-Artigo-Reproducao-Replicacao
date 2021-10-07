@@ -4,7 +4,7 @@ Este diretório apresenta os códigos da oficina de replicação e os dados brut
 
 ## Artigo-base da replicação e análise replicada
 
-O artigo [Volunteers' Engagement in Human Computation for Astronomy Projects](https://doi.org/10.1109/MCSE.2014.4) apresenta uma análise de atividades de voluntários em projetos de ciência cidadã, padrão de que uma minoria de voluntários contribui em muitos dias e uma maioria de voluntários contribui em poucos dias. Ela é materializada como resultado na Figura 3 do artigo. Nesse sentido, o objeto da oficina de replicação é replicar essa análise para o contexto do repositório de software ``react``. Ou seja,  busca-se responder à seguinte pergunta:  _no repositório ``react`` há uma minoria de programadores que contribui em muitos dias e uma maioria de programadores que contribui em poucos dias?_
+O objetivo que norteou a replicacão do artigo [Uma análise de itens determinantes da política de remuneração de uma empresa do ramo frigorífico (https://www.redalyc.org/pdf/3504/350450615008.pdf) em questão deve-se ao o grande interesse na remuneracão dos profissionais da engenharia de software levando em consideracão o tempo de experiência em alguma tecnologia utilizada no mercado de trabalho, região em que moram e as habilidades de cada profissional. A pesquisa foi feita usando o site www.glassdoor.com.br e foram consultados os dados de todas regioes do Brasil, exceto a região Norte. O objetivo foi alcançado e verificou-se que existe uma relacão direta entre o tempo de experiência, a regiÃo em que vivem e o aumento do salário dos funcionários de empresas de tecnologia no Brasil.
 
 ## Fases da replicação e códigos associados
 
